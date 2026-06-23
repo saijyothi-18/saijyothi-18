@@ -20,43 +20,19 @@
 
  📊 Data Analytics
 
- Data Cleaning & Preprocessing
-
- Exploratory Data Analysis (EDA)
- 
- Statistical Analysis
- 
- Business Intelligence
-
- Data Visualization
+ Data Cleaning & Preprocessing|Exploratory Data Analysis (EDA)|Statistical Analysis|Business Intelligence|Data Visualization
  
  💻 Programming
  
- Python
- 
- MYSQL
+ Python|MYSQL|SQL Server
  
  📈 Visualization & Reporting
  
- Power BI
- 
- Microsoft Excel
- 
- Matplotlib
- 
- 🗄️ Databases
- 
- MySQL
- 
- SQL Server
+ Power BI| Microsoft Excel|Matplotlib
  
  🛠️ Tools
  
- Git & GitHub
- 
- Jupyter Notebook
- 
- VS Code
+ Git & GitHub| Jupyter Notebook| VS Code
  
  📂 Featured Projects
  
@@ -68,13 +44,7 @@
  
  🌱 Currently Learning
  
- Advanced SQL for Analytics
- 
- Machine Learning & AI Applications
- 
- Data Storytelling & Dashboard Design
- 
- Generative AI
+ Advanced SQL for Analytics| Machine Learning & AI Applications|Generative AI
  
  📈 Goals
  
